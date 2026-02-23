@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Emiliano Sandoval (kidbdata)
+# 👋 Hi, I'm Emiliano Sandoval 
 
 Data Analyst passionate about transforming data into insights and telling stories through analysis.  
 Skilled in Python, SQL, Pandas, Exploratory Data Analysis (EDA), and data visualization.
