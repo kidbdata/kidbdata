@@ -41,7 +41,7 @@ Skilled in Python, SQL, Pandas, Exploratory Data Analysis (EDA), and data visual
 ## 📫 Let’s Connect
 
 - LinkedIn: https://www.linkedin.com/in/emilianosandoval-dataanalyst  
-- Email: *(tu correo profesional)*
+- Email: sansamdta@gmail.com
 
 ---
 
